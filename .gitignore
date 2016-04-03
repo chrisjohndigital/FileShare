@@ -1,0 +1,6 @@
+bower_components/
+node_modules/
+Gruntfile.js
+Thumbs.db
+fileshare/bin/
+fileshare/node_modules/
