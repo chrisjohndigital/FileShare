@@ -4,3 +4,4 @@ Gruntfile.js
 Thumbs.db
 fileshare/bin/
 fileshare/node_modules/
+fielshare/package-lock.json
